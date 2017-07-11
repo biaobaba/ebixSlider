@@ -1,0 +1,2 @@
+# ebixSlider
+image slider
